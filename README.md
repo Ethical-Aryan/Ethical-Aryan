@@ -15,7 +15,7 @@
 ```bash
 ┌──(ethical-aryan㉿localhost)-[~]
 └─$ whoami
-
+```
 👋 Hi, I’m Aryan Satam
 🛡️ Cybersecurity Enthusiast | Bug Bounty Learner
 💻 Full Stack Web Developer
