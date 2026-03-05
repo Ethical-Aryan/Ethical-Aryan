@@ -1,6 +1,6 @@
 <!-- ===================== HACKER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ethical%20Aryan&fontSize=48&fontColor=00ff99&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aryan%20ASatam&fontSize=48&fontColor=00ff99&animation=fadeIn" />
 </p>
 
 <!-- ===================== TYPING EFFECT ===================== -->
